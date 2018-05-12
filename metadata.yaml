@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37191
     wikipedia: http://en.wikipedia.org/wiki/J._C._Ryle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34727#A-Sketch-of-the-Life-and-Labors-of-George-Whitefield
 gutenberg_issued: '2010-12-22'
 gutenberg_type: Text
 identifiers:
